@@ -1,0 +1,29 @@
+#title {
+    color: blue;
+    font-size: 100px;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#main {
+    background-color: aquamarine;
+}
+.div {
+    color: darkslategrey;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    display: inline-block;
+    block-size: 200px;
+}
+#img-div {
+    text-align: center;
+    
+}
+#image{
+    border: 40px slateblue solid;
+   
+}
+#tribute-link{
+    display: block;
+    text-align: center;
+   
+}
